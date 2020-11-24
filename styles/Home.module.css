@@ -110,8 +110,9 @@
   line-height: 1.5;
 }
 
-.logo {
-  height: 1em;
+.companyName {
+ 
+  font-weight: bolder;
 }
 
 @media (max-width: 600px) {
